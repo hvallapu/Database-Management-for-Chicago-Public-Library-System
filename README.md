@@ -1,9 +1,9 @@
-[![GitHub Issues](https://img.shields.io/github/issues/Ozencb/library-management-system)](https://www.github.com/ozencb/Library-Management-System/issues)
-[![Stars](https://img.shields.io/github/stars/Ozencb/library-management-system)](https://github.com/Ozencb/library-management-system)
-[![Forks](https://img.shields.io/github/forks/Ozencb/library-management-system)](https://github.com/Ozencb/library-management-system)
-[![MIT](https://img.shields.io/github/license/Ozencb/library-management-system)](../master/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/hvallapu/Chicago-Public-library-management-system)](https://www.github.com/hvallapu/Chicago-Public-Library-Management-System/issues)
+[![Stars](https://img.shields.io/github/stars/hvallapu/Chicago-Public-library-management-system)](https://github.com/hvallapu/Chicago-Public-library-management-system)
+[![Forks](https://img.shields.io/github/forks/hvallapu/Chicago-Public-library-management-system)](https://github.com/hvallapu/Chicago-Public-library-management-system)
 
-# 📚 Library Management System
+
+# 📚 Database Management for Chicago Public Library System
 
 A simple library management system with PHP and MySQL.
 This is a school project so it lacks most of the features that a fully-fledged management system might have. Everything is kept at a very basic level. So, I reckon, it will not be used by anyone.
