@@ -8,7 +8,7 @@
 A simple library management system with PHP and MySQL.
 This is a school project so it lacks most of the features that a fully-fledged management system might have. Everything is kept at a very basic level. So, I reckon, it will not be used by anyone.
 
-![Screenshot](assets/images/Screenshot.png)
+
 
 ## Features
 * A login page with captcha
